@@ -35,7 +35,7 @@ i can create web serwis at django or java swing
 
 
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" alt="DeviantArt Badge"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Saybayry&theme=blue-green" alt="DeviantArt Badge"/>
 
 
 -------------------------
