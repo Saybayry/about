@@ -1,7 +1,8 @@
 # about me
 
-My name is Kamil, I am an artist and a programmer.
+My name is Kamil, I am an artist and a programmer .
 Sometimes I develop games for jam
+I am currently a student
 
 
 
