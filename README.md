@@ -1,8 +1,13 @@
 # about me
 
-My name is Kamil, I am an artist and a programmer .
+My name is Kamil, I am an artist and a programmer.
+
 Sometimes I develop games for jam
+
 I am currently a student
+
+i can create game on godot engen, i can write shader on glsl
+i can creat web serwis at djngo or java swing
 
 
 
