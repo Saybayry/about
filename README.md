@@ -31,13 +31,13 @@ i can create web serwis at django or java swing
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="DeviantArt Badge"/>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="DeviantArt Badge"/>
 
-
-
-
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=Saybayry&theme=white" alt="DeviantArt Badge"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saybayry&theme=white" alt="DeviantArt Badge"/>
-
+<table border="0">
+ <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Saybayry&theme=white" alt="DeviantArt Badge"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saybayry&theme=white" alt="DeviantArt Badge"/></td>
+ </tr>
+</table>
 
 -------------------------
 ## my social networks: 
