@@ -3,8 +3,9 @@
 My name is Kamil, I am an artist and a programmer.
 Sometimes I develop games for jam
 
-I can write code for in php, java, python, gdscript, glsl, 
 
+
+-------------------------
 ## languages and software that I know: 
 <div id="badges">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Itchio Badge"/>
@@ -18,7 +19,7 @@ I can write code for in php, java, python, gdscript, glsl,
 
 </div>
 
-
+-------------------------
 ## my social networks: 
 <div id="badges">
  <a href="https://saybayry.itch.io/">
