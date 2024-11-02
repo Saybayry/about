@@ -24,10 +24,19 @@ i can create web serwis at django or java swing
   <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" alt="DeviantArt Badge"/>
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white" alt="DeviantArt Badge"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="DeviantArt Badge"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="DeviantArt Badge"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="DeviantArt Badge"/>
+  
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="DeviantArt Badge"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="DeviantArt Badge"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="DeviantArt Badge"/>
+
 
 
 
 </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green" alt="DeviantArt Badge"/>
+
 
 -------------------------
 ## my social networks: 
