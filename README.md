@@ -7,7 +7,8 @@ Sometimes I develop games for jam
 I am currently a student
 
 i can create game on godot engen, i can write shader on glsl
-i can creat web serwis at djngo or java swing
+
+i can create web serwis at django or java swing
 
 
 
