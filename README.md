@@ -7,7 +7,7 @@ I can write code for in php, java, python, gdscript, glsl,
 
 
 <div id="badges">
- <a href="https://saybayry.itch.io/">
+ <a href="https://saybayry.itch.io/" target="_blank>
   <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="LinkedIn Badge"/>
  </a>
   <img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" alt="Youtube Badge"/>
